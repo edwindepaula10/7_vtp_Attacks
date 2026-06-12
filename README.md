@@ -32,7 +32,7 @@ Demostrar las vulnerabilidades inherentes del protocolo VTP v1 en equipos Cisco:
 
 **Video:** Demostración práctica de ataques VTP (Agregar y Borrar VLAN)
 
-[Ver en YouTube](https://youtu.be/bXrI1XTeKPk))  
+[Ver en YouTube](https://youtu.be/bXrI1XTeKPk)
 Contenido: Topología, explicación, ejecución del ataque, análisis de resultados
 
 ---
