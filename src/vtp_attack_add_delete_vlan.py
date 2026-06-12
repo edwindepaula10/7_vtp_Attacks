@@ -3,6 +3,7 @@
 VTP VLAN MANIPULATION ATTACKS - Interactive Script (Configurable)
 Autor: Edwin (2024-2415)
 Institución: ITLA - Seguridad Informática
+Seguridad de Redes
 
 Script interactivo que permite AGREGAR o BORRAR una VLAN.
 Los parámetros se configuran DESPUÉS de elegir el tipo de ataque.
